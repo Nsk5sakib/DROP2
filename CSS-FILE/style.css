@@ -1,0 +1,126 @@
+  body{width: auto;
+    
+  }
+  header {
+    background-image: url(../pictures/backgroundimage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    
+  }
+  .container {
+    width: 1200px;
+    
+    margin: 0 auto;
+
+  }
+  ul {
+    list-style: none;
+    display: flex;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    margin: 0 30px;
+  }
+  .navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 40px 0;
+  }
+  .logo {
+    width: 30%;
+     padding-right: 0;
+  }
+  nav {
+    width: 50%;
+  }
+  .sign-in-btn {
+    width: 20%;
+  }
+button { background-color: #ff5f60;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    margin: 0 40px;
+    display: inline-block;
+    
+
+}
+
+ .banner {
+  display: flex;
+  padding: 100 0 ;
+ }
+  .banner-text> h1 {
+    font-size: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+
+
+ }
+ .banner-text> p {
+  font-size: 17px;
+  color: white;
+   align-items: center;
+   text-align: start;
+  font-weight: 500;
+  line-height: 25px;
+  margin: 0 5px
+
+ }
+ .banner-text {
+  width: 50% ;
+  margin: 0;
+ }
+ .bannner-img {
+  width: 50%;
+ }
+ .bannner-img >img{
+  width: 100%;
+ }
+ .container1 {
+  display: flex;
+  width:100%
+ }
+ .education-details {
+  display: flex;
+ }
+ .education-img {
+  width: 50%;
+ }
+ .education-text {
+  width: 25%;
+ }
+ .education-details >text {
+  width: 25%;
+ }
+ .container2 {
+  display: flex;
+  width: 100%;
+ }
+ .ed-details {
+  display: flex;
+ }
+ .ed-text {
+  width: 60%;
+  text-align:start
+  
+ }
+ .ed-details> img {
+  width: 40%;
+ }
+ .btnn {
+  padding-top: 15px;
+  color: white;
+ }
+ .ed-text >p{
+  font-weight: 500;
+  text-align:justify;
+  line-height: 20px;
+ }
+  
+  
